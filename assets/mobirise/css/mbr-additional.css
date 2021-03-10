@@ -1050,27 +1050,42 @@ a {
     width: 80%;
   }
 }
-.cid-sriggoKPlF {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+.cid-sriKkN0VJQ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
-@media (min-width: 1500px) {
-  .cid-sriggoKPlF .container {
-    max-width: 1400px;
-  }
-}
-.cid-sriggoKPlF .mbr-iconfont {
-  display: block;
-  font-size: 5rem;
-  color: #6592e6;
+.cid-sriKkN0VJQ .item {
+  display: flex;
+  align-items: center;
   margin-bottom: 2rem;
 }
-.cid-sriggoKPlF .card-wrapper {
-  margin-top: 3rem;
-}
-.cid-sriggoKPlF .row {
+.cid-sriKkN0VJQ .icon-box {
+  background: #6592e6;
+  width: 60px;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 1rem;
+  display: flex;
   justify-content: center;
+  align-items: center;
+}
+.cid-sriKkN0VJQ .mbr-iconfont {
+  font-size: 2rem;
+  color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sriKkN0VJQ .card {
+    margin-bottom: 2rem;
+  }
+  .cid-sriKkN0VJQ .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sriKkN0VJQ .card-title,
+.cid-sriKkN0VJQ .card-box {
+  color: #000000;
 }
 .cid-sriiVPKyjw {
   padding-top: 6rem;
